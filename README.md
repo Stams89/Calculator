@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Calculator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Calculator App! This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Calculator Deployment
+
+The Calculator App has been successfully deployed using Firebase Hosting. You can access and interact with the app using the following link: [https://calculator-11288.web.app/](https://calculator-11288.web.app/)
+
+![image](https://github.com/Stams89/calculator/assets/104592468/d114c6a9-bc19-449c-b9e5-a25657fc9aef)
+
+![image](https://github.com/Stams89/calculator/assets/104592468/5f6fb5f2-3630-4e8a-958e-f475b9742a08)
+
+
 
 ## Available Scripts
 
@@ -37,7 +47,7 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
