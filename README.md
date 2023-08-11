@@ -6,11 +6,9 @@ Welcome to the Calculator App! This project was bootstrapped with [Create React 
 
 The Calculator App has been successfully deployed using Firebase Hosting. You can access and interact with the app using the following link: [https://calculator-11288.web.app/](https://calculator-11288.web.app/)
 
-![image](https://github.com/Stams89/calculator/assets/104592468/d114c6a9-bc19-449c-b9e5-a25657fc9aef)
+![Calculator App Preview](https://github.com/Stams89/calculator/assets/104592468/d114c6a9-bc19-449c-b9e5-a25657fc9aef)
 
-![image](https://github.com/Stams89/calculator/assets/104592468/5f6fb5f2-3630-4e8a-958e-f475b9742a08)
-
-
+![Calculator App Screenshot](https://github.com/Stams89/calculator/assets/104592468/5f6fb5f2-3630-4e8a-958e-f475b9742a08)
 
 ## Available Scripts
 
